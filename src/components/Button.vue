@@ -11,7 +11,7 @@ export default {
         label: {},
         operation: { type: Boolean},
         double: { type: Boolean},
-        tiple: { type: Boolean}
+        triple: { type: Boolean}
     }
 }
 </script>
@@ -39,7 +39,7 @@ export default {
     grid-column: span 2;
 }
 
-.button.tripe {
+.button.triple {
     grid-column: span 3;
 }
 
